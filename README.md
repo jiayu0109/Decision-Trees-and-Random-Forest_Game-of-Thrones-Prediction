@@ -9,7 +9,9 @@ I came across the data on Kaggle and spot the possibility for me to do the predi
 (1) What year is it from: This dataset is collected and uploaded on Kaggle on June, 2021.
 
 (2) How was it collected: The source are extracted and organized from a fanmade wiki-site specifically for "A Song of Ice and Fire".
+
 Source (from Kaggle):https://www.kaggle.com/dalmacyali1905/decision-tree-pruning-bagging-random-forest/data
+
 Fanmade Wiki:https://awoiaf.westeros.org/index.php/Main_Page
 
 (3) Notes: The owner of the dataset didn't specify each feature's definition, therefore in the next section, the information are based on my search from other similar sources that seems to be extracted from the same fanmade wiki site. Yet some of the definition is still unclear after the search.
